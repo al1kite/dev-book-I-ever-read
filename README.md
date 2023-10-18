@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  # dev-book-I-ever-read
+  # dev-books-I-ever-read
 
   개발 서적을 읽고 요약한 내용을 정리하고 리뷰하는 페이지 입니다.
   

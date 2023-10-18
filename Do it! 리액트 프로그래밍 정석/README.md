@@ -1,4 +1,4 @@
-<img src="https://image.yes24.com/goods/87631428/XL" width="50%">
+![image](https://github.com/al1kite/dev-book-I-ever-read/assets/102217402/c6441774-e859-4848-a1a0-b1fbb3d07f52)
 
 
 # Do it! 리액트 프로그래밍 정석

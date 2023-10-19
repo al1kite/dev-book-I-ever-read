@@ -4,7 +4,8 @@
 
 자기적인 방식으로 데이터를 저장하는 보조기억장치 (자기디스크)
 
-![img_3.png](img_3.png)
+![image](https://github.com/al1kite/dev-books-i-ever-read/assets/102217402/af106593-3d60-4e44-babe-0ad1174b637f)
+
 
 ## 보조기억장치 - 플래시메모리
 

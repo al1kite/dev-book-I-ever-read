@@ -17,5 +17,5 @@
 ## 보류한 책
 
 ## 앞으로 읽을 책
-
+- [Clean Code 애자일 소프트웨어 장인 정신](https://product.kyobobook.co.kr/detail/S000001032980) - 로버트 C. 마틴
 

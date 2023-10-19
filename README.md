@@ -12,6 +12,7 @@
 ## 읽고 있는 책
 
 - [Do it! 리액트 프로그래밍 정석](https://product.kyobobook.co.kr/detail/S000001817959) - 박호준
+- [혼자 공부하는 컴퓨터 구조+운영체제](https://product.kyobobook.co.kr/detail/S000061584886) - 강민철
 
 ## 보류한 책
 

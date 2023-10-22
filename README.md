@@ -21,4 +21,6 @@
 - [JAVA 프로그래밍 면접 이렇게 준비한다](https://product.kyobobook.co.kr/detail/S000001057573) - 노엘 마크엄
 - [몽고 DB 완벽 가이드](https://www.yes24.com/Product/Goods/97980005) - 크리스티나 초도로, 섀넌 브래드쇼, 오언 브라질
 - [스타트 스프링부트](https://product.kyobobook.co.kr/detail/S000001962875) - 구멍가게 코딩단
+- [그림으로 이해하는 AWS 구조와 기술](https://product.kyobobook.co.kr/detail/S000001834627) - 오가사와라 시게타카
+- [그림으로 배우는 서버구조](https://product.kyobobook.co.kr/detail/S000000555537) - 니시무라 야스히로
 

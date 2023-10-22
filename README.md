@@ -18,4 +18,7 @@
 
 ## 앞으로 읽을 책
 - [Clean Code 애자일 소프트웨어 장인 정신](https://product.kyobobook.co.kr/detail/S000001032980) - 로버트 C. 마틴
+- [JAVA 프로그래밍 면접 이렇게 준비한다](https://product.kyobobook.co.kr/detail/S000001057573) - 노엘 마크엄
+- [몽고 DB 완벽 가이드](https://www.yes24.com/Product/Goods/97980005) - 크리스티나 초도로, 섀넌 브래드쇼, 오언 브라질
+- [스타트 스프링부트](https://product.kyobobook.co.kr/detail/S000001962875) - 구멍가게 코딩단
 

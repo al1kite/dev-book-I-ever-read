@@ -5,7 +5,9 @@
 
   개발 서적을 읽고 요약한 내용을 정리하고 리뷰하는 페이지 입니다.
   
-
+<p align="center">
+  <img src="https://github.com/al1kite/spring-wiki/assets/102217402/b7fcb8c6-15f8-451b-9e38-d699ee972bc0">
+</p>
 
 ## 다 읽은 책
 
